@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cl>
+    <Client gender = "male">
+        <LastName>White</LastName>
+        <FirstName>Bob</FirstName>
+        <MiddleName>Jerry</MiddleName>
+        <BirthDay>11/07/1976</BirthDay>
+        <PrimaryCity>London</PrimaryCity>
+        <Amount curr = "USD">24384</Amount>
+    </Client>
+    <Client gender = "male">
+        <LastName>Brown</LastName>
+        <FirstName>Mary</FirstName>
+        <MiddleName>Lorry</MiddleName>
+        <BirthDay>12/09/1998</BirthDay>
+        <PrimaryCity>Paris</PrimaryCity>
+        <Amount curr = "RUB">5676</Amount>
+    </Client>
+</Cl>
+
